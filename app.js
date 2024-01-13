@@ -35,7 +35,3 @@ function displayTable() {
   `;
   mainContainer.appendChild(forTotalPrice);
 }
-
-const forTest = () => {
-  console.log("adfasdf");
-};
